@@ -42,6 +42,9 @@
 <p align="center">
    <img alt="webversion" src="https://ik.imagekit.io/8qmbx6p1dq/Proffy/web_proffy_IoHXZJB5D.gif"/>
 </p>
+
+---
+
 <h3>Mobile</h3>
 
 <p align="center">
